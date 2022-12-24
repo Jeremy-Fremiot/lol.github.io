@@ -1,0 +1,24 @@
+<html>
+    <head>
+        <title>Les Consoles de jeux</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body style="background-color:#1FE912;">
+        <div>
+            <h1 style="text-align : center; font-size:300%">
+                Les Consoles de Jeux
+            </h1>
+            <p style="color : #0010E5; font-size: 250%"> 
+                Les Consoles sont apparus dans les années 70 et sont sortis dans des milliers de formes. 
+            </p>
+            <div style="text-align: center" >.
+                <img src="1.jpg" alt="" style="width:60%; text-align : center"/>
+            </div>
+            <p style ="margin-bottom : 2em;font-style: italic; font-size:200%">
+                ⚠️ ️Pardonnez moi de cette photo floue mais je n'ai ni le talent ni le temps pour trouver une photo de cette taille non flou ⚠️
+            </p>
+        </div>
+        
+    </body>
+</html>
