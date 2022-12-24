@@ -1,11 +1,6 @@
 # Jeremy-Fremiot.github.io
 Project website
 <html>
-    <head>
-        <title>Les Consoles de jeux</title>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    </head>
     <body style="background-color:#1FE912;">
         <div>
             <h1 style="text-align : center; font-size:300%">
